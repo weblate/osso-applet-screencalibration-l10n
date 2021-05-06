@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-applet-screencalibration 20081020115108\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2008.10.20 11:51+0300\n"
 "PO-Revision-Date: 2008.10.20 11:51+0300\n"
 "Last-Translator:\n"
