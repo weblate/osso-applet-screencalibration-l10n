@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-applet-screencalibration 20081020115108\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2008.10.20 11:51+0300\n"
+"PO-Revision-Date: 2008.10.20 11:51+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "scca_fi_calibrate"
+msgstr "Calibrer l'écran tactile du terminal"
+
+msgid "scca_fi_press_esc_cancel"
+msgstr "Appuyer sur <esc button> pour annuler"
+
+msgid "scca_fi_press_esc_start_again"
+msgstr " Pour reprendre depuis le repère 1, appuyez sur <esc button> "
+
+msgid "scca_fi_tap_closer"
+msgstr "Taper plus près du repère %d"
+
+msgid "scca_fi_tap_to"
+msgstr "Taper au centre du repère %d avec le stylet"
+
+msgid "scca_ib_calib_failed"
+msgstr ""
+"Impossible de calibrer.\n"
+"Reprendre le calibrage."
+
+msgid "scca_ib_calib_success"
+msgstr "Calibrage de l'écran tactile terminé"

@@ -1,0 +1,119 @@
+Source: osso-applet-screencalibration-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-applet-screencalibration-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-applet-screencalibration-l10n-mr
+Depends: osso-applet-screencalibration-l10n-ruru, osso-applet-screencalibration-l10n-frfr, osso-applet-screencalibration-l10n-frca, osso-applet-screencalibration-l10n-dadk, osso-applet-screencalibration-l10n-itit, osso-applet-screencalibration-l10n-svse, osso-applet-screencalibration-l10n-nono, osso-applet-screencalibration-l10n-fifi, osso-applet-screencalibration-l10n-nlnl, osso-applet-screencalibration-l10n-enus, osso-applet-screencalibration-l10n-dede, osso-applet-screencalibration-l10n-esmx, osso-applet-screencalibration-l10n-eses, osso-applet-screencalibration-l10n-cscz, osso-applet-screencalibration-l10n-ptpt, osso-applet-screencalibration-l10n-engb, osso-applet-screencalibration-l10n-plpl
+Description: osso-applet-screencalibration marketing release package
+ This is a metapackage for osso-applet-screencalibration to pull all the l10n packages.
+ Application developers of osso-applet-screencalibration should depend on
+ "osso-applet-screencalibration-l10n-mr0 | osso-applet-screencalibration-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-applet-screencalibration-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (cs_CZ)
+ Language files for cs_CZ osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (da_DK)
+ Language files for da_DK osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (de_DE)
+ Language files for de_DE osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (en_GB)
+ Language files for en_GB osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (en_US)
+ Language files for en_US osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (es_ES)
+ Language files for es_ES osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (es_MX)
+ Language files for es_MX osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (fi_FI)
+ Language files for fi_FI osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (fr_CA)
+ Language files for fr_CA osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (fr_FR)
+ Language files for fr_FR osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (it_IT)
+ Language files for it_IT osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (nl_NL)
+ Language files for nl_NL osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (no_NO)
+ Language files for no_NO osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (pl_PL)
+ Language files for pl_PL osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (pt_PT)
+ Language files for pt_PT osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (ru_RU)
+ Language files for ru_RU osso-applet-screencalibration.
+
+Package: osso-applet-screencalibration-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-applet-screencalibration (sv_SE)
+ Language files for sv_SE osso-applet-screencalibration.
